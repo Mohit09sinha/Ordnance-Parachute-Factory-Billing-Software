@@ -1,0 +1,20 @@
+	               Ordnance Parachute Factory       
+ Bill Number:2308 
+ Customer Name:Mohit 
+ Phone Number:8535334
+ Customer Email:fgbgdgdfd
+ Company Name:DRDO
+ Order Date:10-10-2023
+ Delivery Date:10-11-2023
+==============================================
+ Products			Qty		Price
+==============================================
+High_Altitude_Parachute			20		380000
+KM_Float			20		380000
+Gemini_Craft			1		19000
+
+ ==============================================
+ Sub Amount: 			Rs.779000.00 
+ Tax Amount: 			Rs.7600.00 
+ Total Amount: 			Rs.786600.00 
+==============================================

@@ -1,0 +1,22 @@
+	               Ordnance Parachute Factory       
+ Bill Number:1607 
+ Customer Name:uyufuy 
+ Phone Number:fv
+ Customer Email:gvg
+ Company Name:vg
+ Order Date:vgvg
+ Delivery Date:vghv
+==============================================
+ Products			Qty		Price
+==============================================
+Gemini_Craft			1		19000
+Gemini_Craft			1		19000
+Gemini_Craft			1		19000
+Gemini_Craft			1		19000
+Gemini_Craft			1		19000
+
+ ==============================================
+ Sub Amount: 			Rs.95000.00 
+ Tax Amount: 			Rs.760.00 
+ Total Amount: 			Rs.95760.00 
+==============================================

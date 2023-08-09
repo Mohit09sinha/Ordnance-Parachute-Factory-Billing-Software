@@ -1,0 +1,19 @@
+	               Ordnance Parachute Factory       
+ Bill Number:1653 
+ Customer Name:Mohit 
+ Phone Number:884080022
+ Customer Email:mohit@gmail.com
+ Company Name:DRDO
+ Order Date:01-08-2023
+ Delivery Date:10-08-2023
+==============================================
+ Products			Qty		Price
+==============================================
+Heavy_Drop_Parachute			1		18000
+NBC_Suit			1		20000
+
+ ==============================================
+ Sub Amount: 			Rs.38000.00 
+ Tax Amount: 			Rs.180.00 
+ Total Amount: 			Rs.38180.00 
+==============================================

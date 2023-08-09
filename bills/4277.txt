@@ -1,0 +1,18 @@
+	                 Ordnance Parachute Factory             
+ Bill Number:			4277 
+ Customer Name:			fyuf 
+ Phone Number:			fg
+ Customer Email:			ghcgh
+ Company Name:			cghc
+ Order Date:			ghcg
+ Delivery Date:			gcgcghc
+==============================================
+ Products			Qty		Price
+==============================================
+Heavy_Drop_Parachute			1		18000
+
+ ==============================================
+ Sub Amount: 			Rs.18000.00 
+ Tax Amount: 			Rs.0.00 
+ Total Amount: 			Rs.18000.00 
+==============================================

@@ -1,0 +1,18 @@
+	               Ordnance Parachute Factory       
+ Bill Number:3340 
+ Customer Name: 
+ Phone Number:
+ Customer Email:
+ Company Name:
+ Order Date:
+ Delivery Date:
+==============================================
+ Products			Qty		Price
+==============================================
+Waterproof_Rain_Poncho			20		360000
+
+ ==============================================
+ Sub Amount: 			Rs.360000.00 
+ Tax Amount: 			Rs.3420.00 
+ Total Amount: 			Rs.363420.00 
+==============================================

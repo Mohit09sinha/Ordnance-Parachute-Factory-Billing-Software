@@ -1,0 +1,20 @@
+	               Ordnance Parachute Factory       
+ Bill Number:1298 
+ Customer Name:Shreya 
+ Phone Number:8840281934
+ Customer Email:anushkasinha2609@gmail.com
+ Company Name:IIT
+ Order Date:05-08-2023
+ Delivery Date:05-09-2023
+==============================================
+ Products			Qty		Price
+==============================================
+MiG29_Aircraft			1		19000
+Jaguar_Aircraft			20		400000
+Illuminating_Ammunition			50		900000
+
+ ==============================================
+ Sub Amount: 			Rs.1319000.00 
+ Tax Amount: 			Rs.13010.00 
+ Total Amount: 			Rs.1332010.00 
+==============================================

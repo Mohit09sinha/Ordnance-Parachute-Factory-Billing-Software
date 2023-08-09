@@ -1,0 +1,20 @@
+	               Ordnance Parachute Factory       
+ Bill Number:7506 
+ Customer Name:Mohit 
+ Phone Number:54566
+ Customer Email:ddxfxbfxv
+ Company Name:fxbfxfvx
+ Order Date:fxvfxvfx
+ Delivery Date:xvx
+==============================================
+ Products			Qty		Price
+==============================================
+Kiran_Aircraft			1		15000
+Heavy_Drop_Parachute			20		360000
+NBC_Suit			20		360000
+
+ ==============================================
+ Sub Amount: 			Rs.735000.00 
+ Tax Amount: 			Rs.7170.00 
+ Total Amount: 			Rs.742170.00 
+==============================================
